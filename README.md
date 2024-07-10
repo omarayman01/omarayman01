@@ -12,14 +12,15 @@
 - 📫 How to reach me *omar.ayman01@hotmail.com*
   
 
+<br>
+<br>
 
 <div>
   <a href="mailto:omar.ayman01@ghotmail.com" target="blank"><img align="left" src="https://img.icons8.com/color/256/gmail-new.png" height="45" width="45" /></a>
   <a href="https://www.linkedin.com/in/o-ayman01" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40" width="40" /></a>
- 
-     <a href="[https://www.facebook.com/omar.ayman.395891]([https://www.facebook.com/abdalla.ayman.5076/](https://www.facebook.com/omar.ayman.395891))" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="40" width="40" /></a>
+    <a href="https://www.facebook.com/omar.ayman.395891" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
+
+
 </div>
 
 
