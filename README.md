@@ -9,7 +9,7 @@
 
 - 🌱 Aspiring software developer with a keen interest in mobile application development using Flutter. Eager to expand technical and non-technical skills.
   
-- 📫 How to reach me *omar.ayman01@hotmail.com*
+- 📫 How to reach me *omarr.ayman01@gmail.com*
   
 
 <br>
